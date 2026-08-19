@@ -44,7 +44,7 @@ Certificate-Verification/
 │   ├── App.jsx             # Root component
 │   ├── main.jsx            # Entry point
 │   └── index.css           # Global styles
-├── .eslintrc.cjs           # ESLint configuration
+├── eslint.config.js          # ESLint configuration
 ├── vite.config.js          # Vite configuration
 ├── package.json            # Dependencies & scripts
 └── README.md               # Project documentation
@@ -65,7 +65,7 @@ UI updates dynamically without page reload
 
 🛠️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/khushi375/Certificate-Verification.git
+git clone https://github.com/premanjali-27/Certificate-Verification-System.git
 
 2️⃣ Navigate to Project Folder
 cd Certificate-Verification
